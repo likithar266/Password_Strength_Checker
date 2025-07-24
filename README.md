@@ -27,6 +27,3 @@ Easily customize by editing variables in `styles.css`, such as `--primary-dark` 
 
 ## License
 MIT License.
-
-## Author
-**Likitha R** - Cybersecurity Enthusiast.
